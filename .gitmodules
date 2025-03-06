@@ -1,3 +1,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = git@github.com:dastarruer/rock-paper-scissors.git
+[submodule "traffic-lights"]
+	path = traffic-lights
+	url = git@github.com:dastarruer/traffic-lights.git
